@@ -1,0 +1,1 @@
+[Getting started with standalone components](https://angular.io/guide/standalone-components) ([Youtube video](https://www.youtube.com/watch?v=x5PZwb4XurU), [GitHub code](https://github.com/angular/examples))  

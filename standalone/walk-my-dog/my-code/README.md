@@ -10,5 +10,6 @@ ng new walk-my-dog --inline-style --inline-template
 ng generate service Dogs --flat
 ng generate component DogsList --flat --standalone
 ng serve
+ng generate component DogsListCard --flat --standalone
 ng generate component DogView --flat --standalone --inline-template --inline-style
 ```

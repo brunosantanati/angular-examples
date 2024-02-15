@@ -26,3 +26,4 @@ The purpose of this repo is to put together various Angular projects, each and e
 * [What is Angular?](https://angular.io/guide/what-is-angular)  
 * [Angular developer guides](https://angular.io/guide/developer-guide-overview)  
 * [NgModule](https://angular.io/api/core/NgModule)  
+* [Sharing data between child and parent directives and components](https://angular.io/guide/inputs-outputs)  

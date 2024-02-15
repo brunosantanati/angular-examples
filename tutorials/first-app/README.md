@@ -1,5 +1,6 @@
 ## Link for this tutorial
 [Build your first Angular app](https://angular.io/tutorial/first-app)  
+[json-server](https://www.npmjs.com/package/json-server)  
 
 ## Commands
 
@@ -24,4 +25,8 @@ ng generate service housing --skip-tests
 
 Lesson 10
 ng generate component details --inline-template --skip-tests
+
+Lesson 14
+npm install -g json-server
+json-server --watch db.json
 ```

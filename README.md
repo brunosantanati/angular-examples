@@ -29,3 +29,4 @@ The purpose of this repo is to put together various Angular projects, each and e
 * [Sharing data between child and parent directives and components](https://angular.io/guide/inputs-outputs)  
 * [Property binding](https://angular.io/guide/property-binding)  
 * [Displaying values with interpolation](https://angular.io/guide/interpolation)  
+* [Built-in directives](https://angular.io/guide/built-in-directives)  

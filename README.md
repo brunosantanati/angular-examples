@@ -32,3 +32,4 @@ The purpose of this repo is to put together various Angular projects, each and e
 * [Built-in directives](https://angular.io/guide/built-in-directives)  
 * [Single Page Applications (SPA)](https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application) 
 * [Using Angular routes in a single-page application](https://angular.io/guide/router-tutorial)   
+* [Understanding template variables](https://angular.io/guide/template-reference-variables)  

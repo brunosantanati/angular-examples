@@ -25,3 +25,4 @@ The purpose of this repo is to put together various Angular projects, each and e
 * [Building a template-driven form](https://angular.io/guide/forms)  
 * [What is Angular?](https://angular.io/guide/what-is-angular)  
 * [Angular developer guides](https://angular.io/guide/developer-guide-overview)  
+* [NgModule](https://angular.io/api/core/NgModule)  

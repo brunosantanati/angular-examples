@@ -21,4 +21,7 @@ ng generate interface housinglocation
 
 Lesson 9
 ng generate service housing --skip-tests
+
+Lesson 10
+ng generate component details --inline-template --skip-tests
 ```

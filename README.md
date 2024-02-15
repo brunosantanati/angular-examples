@@ -30,3 +30,5 @@ The purpose of this repo is to put together various Angular projects, each and e
 * [Property binding](https://angular.io/guide/property-binding)  
 * [Displaying values with interpolation](https://angular.io/guide/interpolation)  
 * [Built-in directives](https://angular.io/guide/built-in-directives)  
+* [Single Page Applications (SPA)](https://angular.io/guide/router-tutorial#using-angular-routes-in-a-single-page-application) 
+* [Using Angular routes in a single-page application](https://angular.io/guide/router-tutorial)   

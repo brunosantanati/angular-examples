@@ -28,3 +28,4 @@ The purpose of this repo is to put together various Angular projects, each and e
 * [NgModule](https://angular.io/api/core/NgModule)  
 * [Sharing data between child and parent directives and components](https://angular.io/guide/inputs-outputs)  
 * [Property binding](https://angular.io/guide/property-binding)  
+* [Displaying values with interpolation](https://angular.io/guide/interpolation)  
